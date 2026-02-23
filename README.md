@@ -1,14 +1,6 @@
 # 📦 Supply Chain Dashboard & Inventory Tracker
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-Solver%20%7C%20Scenario%20Manager-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Complete-1E8449?style=for-the-badge"/>
-</p>
+
 
 > **Personal Project · February 2025 · Mousumi Paul**
 
