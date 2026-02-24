@@ -2,7 +2,7 @@
 
 
 
-> **Personal Project · January 2026 · Mousumi Paul**
+> **Personal Project · February 2026 · Mousumi Paul**
 
 An end-to-end inventory management system combining **Excel (Solver + Scenario Manager)**, **SQL databases (PostgreSQL + MySQL)**, **Python**, and **live BI dashboards (Power BI + Tableau)** to track real-time stock levels, compute optimal order quantities, and automate low-stock alerts across 5 product categories — reducing simulated excess holding costs by **22%** and eliminating stockout incidents.
 
